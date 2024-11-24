@@ -1,9 +1,9 @@
 FLIGHT BOOKING APPLICATION USING MERN STACK
 
-Overview
+Overview:
 The Flight Booking System is a full-stack web application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application allows users to search for available flights, book tickets, select seats, and includes a dedicated Flight Operator Page where operators can manage flights. The system offers features like user authentication, flight management, and booking processes, providing an end-to-end solution for a flight booking system.
 
-Features
+Features:
 User Authentication: Register new users and authenticate existing ones.
 Flight Search: Search flights based on departure and destination locations.
 Booking: Users can book flights, selecting available seats.
