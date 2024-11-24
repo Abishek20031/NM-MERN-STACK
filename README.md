@@ -21,13 +21,21 @@ Responsive Design: Fully responsive for different screen sizes and devices.
 Technology Stack:
 
 Frontend:
+
 React.js: Dynamic user interface.
+
 CSS: Custom styles for various components and pages.
+
 Backend:
+
 Node.js: Server-side logic.
+
 Express.js: API endpoints and request handling.
+
 Database:
+
 MongoDB: NoSQL database for storing flight, user, and booking information.
+
 **Installation and Setup
 ****Requirements
 **Ensure you have the following installed:
