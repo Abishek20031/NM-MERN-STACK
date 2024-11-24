@@ -7,10 +7,15 @@ The Flight Booking System is a full-stack web application developed using the ME
 Features:
 
 User Authentication: Register new users and authenticate existing ones.
+
 Flight Search: Search flights based on departure and destination locations.
+
 Booking: Users can book flights, selecting available seats.
+
 Flight Operator Page: Operators can add, update, and manage flight schedules and availability.
+
 Admin Panel: Admin users can view all bookings and manage flight information.
+
 Responsive Design: Fully responsive for different screen sizes and devices.
 
 Technology Stack:
